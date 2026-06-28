@@ -195,7 +195,7 @@ with st.sidebar:
         gemini_api_key = None
         groq_api_key = None
     else:
-        st.info("Bu modda FastAPI sunucusuna ihtiyaç duyulmaz. API anahtarlarını aşağıya girin veya .env / secrets ayarlarına ekleyin.")
+        st.info("Bu modda FastAPI sunucusuna ihtiyaç duyulmaz. Sistem, API anahtarlarınızı .env veya Streamlit secrets üzerinden otomatik olarak okur.")
         # Env'den oku
         env_gemini = os.getenv("GEMINI_API_KEY") or ""
         env_groq = os.getenv("GROQ_API_KEY") or ""
@@ -206,8 +206,17 @@ with st.sidebar:
         if "GROQ_API_KEY" in st.secrets:
             env_groq = st.secrets["GROQ_API_KEY"]
             
-        gemini_api_key = st.text_input("Gemini API Key", value=env_gemini, type="password")
-        groq_api_key = st.text_input("Groq API Key", value=env_groq, type="password")
+        # API Anahtarlarını Güvenli Göster/Gizle ve Zorunlu Yap
+        if env_gemini or env_groq:
+            st.success("🔒 API Anahtarları Sistemden Başarıyla Yüklendi.")
+            with st.expander("🔑 API Anahtarlarını Manuel Değiştir / Düzenle"):
+                gemini_api_key = st.text_input("Gemini API Key", value=env_gemini, type="password", help="Boş bırakırsanız sistemdeki varsayılan anahtar kullanılır.")
+                groq_api_key = st.text_input("Groq API Key", value=env_groq, type="password", help="Boş bırakırsanız sistemdeki varsayılan anahtar kullanılır.")
+        else:
+            st.warning("⚠️ Sistemde tanımlı API anahtarı bulunamadı! Analiz yapabilmek için en az bir anahtar girmelisiniz.")
+            gemini_api_key = st.text_input("Gemini API Key (Zorunlu)", value="", type="password", placeholder="AIzaSy...", help="Google Gemini API Anahtarınız")
+            groq_api_key = st.text_input("Groq API Key (Zorunlu)", value="", type="password", placeholder="gsk_...", help="Groq Llama 3 API Anahtarınız")
+            
         backend_url = None
         
     st.markdown("---")
