@@ -1,0 +1,10 @@
+#ana dosya requirements.txt
+fastapi
+uvicorn
+torch
+transformers
+pydantic
+python-multipart
+python-dotenv
+streamlit
+requests

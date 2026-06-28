@@ -1,0 +1,1 @@
+1234a içindeki yazılar sil26. bayttan itibaren bu yazıyı yazdıkn yazıldıBu basit bir dosyadır.r+ açma kipi ile dosyanın sonuna yazılmıştır.bu metin appende ile dosyanın en sonuna yazıldı

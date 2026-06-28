@@ -1,0 +1,1 @@
+Dosya içindeki yazılar silinip 1. yoldaki kod tarafından yeniden yazıldı

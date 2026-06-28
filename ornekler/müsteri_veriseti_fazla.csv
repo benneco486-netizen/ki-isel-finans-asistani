@@ -1,0 +1,101 @@
+musteri_id,yas,isim_soyisim,sehir,cinsiyet,uyelik_tarihi,siparis_adeti,toplam_odeme,odeme_sekli,odeme_yontemi,urun_kategori
+100001,,Ayşe Yılmaz,İstanbul,Kadın,2022-10-26 14:30:00,5,1250.50,Peşin,Kredi Kartı,Giyim
+100002,52,Mehmet Demir,Ankara,Erkek,2021-05-18 09:15:00,12,5400.75,Taksitli,Havale/EFT,Elektronik
+100003,28,Fatma Kaya,İzmir,Kadın,2023-01-10 16:45:00,2,300.20,Peşin,Kapıda Ödeme,Kozmetik
+100004,45,Ali Şahin,Bursa,Erkek,2020-11-22 11:20:00,8,2800.90,Taksitli,Kredi Kartı,Ev&Yaşam
+100005,61,Zeynep Çelik,Antalya,Kadın,2022-07-05 13:00:00,15,7200.30,Peşin,Havale/EFT,Market
+100006,22,Emre Özdemir,Adana,Erkek,2023-03-15 10:30:00,1,150.80,Taksitli,Kapıda Ödeme,Anne&Çocuk
+100007,39,Selin Aydın,Konya,Kadın,2021-12-01 17:15:00,9,3500.60,Peşin,Kredi Kartı,Kadın
+100008,58,Hakan Arslan,Gaziantep,Erkek,2020-09-08 12:45:00,18,9500.40,Taksitli,Havale/EFT,Erkek
+100009,25,Burcu Güneş,Şanlıurfa,Kadın,2023-05-20 15:00:00,3,450.10,Peşin,Kapıda Ödeme,Giyim
+100010,,Mustafa Yıldız,Diyarbakır,Erkek,2022-02-14 11:30:00,11,4800.25,Taksitli,Kredi Kartı,Elektronik
+100011,31,Gizem Korkmaz,İstanbul,Kadın,2021-10-03 14:00:00,6,1800.70,Peşin,Havale/EFT,Kozmetik
+100012,55,Serkan Kurt,Ankara,Erkek,2020-07-28 09:45:00,14,6500.95,Taksitli,Kapıda Ödeme,Ev&Yaşam
+100013,29,Elif Doğan,İzmir,Kadın,2023-04-12 16:15:00,4,800.35,Peşin,Kredi Kartı,Market
+100014,42,Umut Aslan,Bursa,Erkek,2022-01-05 12:30:00,10,4200.55,Taksitli,Havale/EFT,Anne&Çocuk
+100015,64,Esra Şen,Antalya,Kadın,2021-08-20 15:45:00,17,8800.15,Peşin,Kapıda Ödeme,Kadın
+100016,23,Oğuz Koç,Adana,Erkek,2020-05-12 10:15:00,2,250.65,Taksitli,Kredi Kartı,Erkek
+100017,37,Pınar Aksoy,Konya,Kadın,2023-02-28 17:00:00,7,2200.85,Peşin,Havale/EFT,Giyim
+100018,59,İbrahim Kara,Gaziantep,Erkek,2022-11-15 13:30:00,19,9800.20,Taksitli,Kapıda Ödeme,Elektronik
+100019,26,Tuğçe Özkan,Şanlıurfa,Kadın,2021-06-03 11:00:00,4,600.45,Peşin,Kredi Kartı,Kozmetik
+100020,49,Murat Çetin,Diyarbakır,Erkek,2020-03-25 14:30:00,12,5100.70,Taksitli,Havale/EFT,Ev&Yaşam
+100021,,Ceren Yücel,İstanbul,Kadın,2023-06-10 16:00:00,7,1950.90,Peşin,Kapıda Ödeme,Market
+100022,56,Hüseyin Polat,Ankara,Erkek,2022-03-02 12:15:00,15,7500.30,Taksitli,Kredi Kartı,Anne&Çocuk
+100023,30,Deniz Erdem,İzmir,Kadın,2021-11-20 09:30:00,5,1100.55,Peşin,Havale/EFT,Kadın
+100024,43,Fatih Yüksel,Bursa,Erkek,2020-08-14 17:45:00,11,4600.80,Taksitli,Kapıda Ödeme,Erkek
+100025,65,Gülçin Acar,Antalya,Kadın,2023-01-28 10:00:00,18,9200.10,Peşin,Kredi Kartı,Giyim
+100026,24,Osman Kılıç,Adana,Erkek,2022-10-01 13:15:00,3,380.25,Taksitli,Havale/EFT,Elektronik
+100027,38,Gamze Tunç,Konya,Kadın,2021-07-10 15:30:00,8,2500.65,Peşin,Kapıda Ödeme,Kozmetik
+100028,60,Ramazan Öztürk,Gaziantep,Erkek,2020-04-02 11:45:00,20,10000.45,Taksitli,Kredi Kartı,Ev&Yaşam
+100029,27,Sevim Sağlam,Şanlıurfa,Kadın,2023-03-18 16:30:00,6,1650.85,Peşin,Havale/EFT,Market
+100030,,Ahmet Çakır,Diyarbakır,Erkek,2022-12-05 12:00:00,13,5800.20,Taksitli,Kapıda Ödeme,Anne&Çocuk
+100031,33,Duygu Özer,İstanbul,Kadın,2021-09-22 09:15:00,9,3200.75,Peşin,Kredi Kartı,Kadın
+100032,57,Yusuf Korkut,Ankara,Erkek,2020-06-15 17:30:00,16,8200.95,Taksitli,Havale/EFT,Erkek
+100033,31,Bahar Şahin,İzmir,Kadın,2023-05-02 10:45:00,7,2100.35,Peşin,Kapıda Ödeme,Giyim
+100034,44,Emir Arıkan,Bursa,Erkek,2022-02-18 13:00:00,12,4500.55,Taksitli,Kredi Kartı,Elektronik
+100035,66,Hande Duran,Antalya,Kadın,2021-11-05 15:15:00,19,9500.15,Peşin,Havale/EFT,Kozmetik
+100036,25,Onur Yılmaz,Adana,Erkek,2020-08-28 11:30:00,4,500.65,Taksitli,Kapıda Ödeme,Ev&Yaşam
+100037,40,Şeyma Kaya,Konya,Kadın,2023-01-15 16:45:00,9,2900.85,Peşin,Kredi Kartı,Market
+100038,62,Sinan Demir,Gaziantep,Erkek,2022-10-28 12:00:00,21,10500.20,Taksitli,Havale/EFT,Anne&Çocuk
+100039,28,İpek Çelik,Şanlıurfa,Kadın,2021-07-20 09:30:00,5,1350.45,Peşin,Kapıda Ödeme,Kadın
+100040,52,Cem Özdemir,Diyarbakır,Erkek,2020-04-12 17:45:00,14,5600.70,Taksitli,Kredi Kartı,Erkek
+100041,34,Ece Aydın,İstanbul,Kadın,2023-06-25 10:00:00,8,2250.90,Peşin,Havale/EFT,Giyim
+100042,58,Metin Arslan,Ankara,Erkek,2022-03-18 13:15:00,17,7800.30,Taksitli,Kapıda Ödeme,Elektronik
+100043,32,Gözde Güneş,İzmir,Kadın,2021-12-10 15:30:00,6,1700.55,Peşin,Kredi Kartı,Kozmetik
+100044,45,Levent Yıldız,Bursa,Erkek,2020-09-02 11:45:00,13,4900.80,Taksitli,Havale/EFT,Ev&Yaşam
+100045,67,Nihan Korkmaz,Antalya,Kadın,2023-02-28 16:30:00,20,9800.10,Peşin,Kapıda Ödeme,Market
+100046,26,Serdar Kurt,Adana,Erkek,2022-11-20 12:00:00,5,650.25,Taksitli,Kredi Kartı,Anne&Çocuk
+100047,41,Tuğba Doğan,Konya,Kadın,2021-08-12 09:15:00,10,3200.65,Peşin,Havale/EFT,Kadın
+100048,,Volkan Aslan,Gaziantep,Erkek,2020-05-05 17:30:00,18,10200.45,Taksitli,Kapıda Ödeme,Erkek
+100049,29,Aslı Şen,Şanlıurfa,Kadın,2023-04-18 10:45:00,7,2050.85,Peşin,Kredi Kartı,Giyim
+100050,53,Burak Koç,Diyarbakır,Erkek,2022-01-02 13:00:00,15,5500.20,Taksitli,Havale/EFT,Elektronik
+100051,35,Ceyda Aksoy,İstanbul,Kadın,2021-10-25 15:15:00,9,2400.75,Peşin,Kapıda Ödeme,Kozmetik
+100052,59,Erhan Kara,Ankara,Erkek,2020-07-18 11:30:00,18,8500.95,Taksitli,Kredi Kartı,Ev&Yaşam
+100053,33,Fulya Özkan,İzmir,Kadın,2023-06-05 16:45:00,8,1800.35,Peşin,Havale/EFT,Market
+100054,46,Kadir Çetin,Bursa,Erkek,2022-03-22 12:00:00,14,5200.55,Taksitli,Kapıda Ödeme,Anne&Çocuk
+100055,68,Leyla Yücel,Antalya,Kadın,2021-12-15 09:30:00,21,10200.15,Peşin,Kredi Kartı,Kadın
+100056,27,Okan Erdem,Adana,Erkek,2020-09-08 17:45:00,6,700.65,Taksitli,Havale/EFT,Erkek
+100057,42,Sibel Yüksel,Konya,Kadın,2023-02-18 10:00:00,11,3500.85,Peşin,Kapıda Ödeme,Giyim
+100058,64,Tarık Acar,Gaziantep,Erkek,2022-11-02 13:15:00,23,11000.20,Taksitli,Kredi Kartı,Elektronik
+100059,30,Zehra Kılıç,Şanlıurfa,Kadın,2021-08-25 15:30:00,7,2000.45,Peşin,Havale/EFT,Kozmetik
+100060,54,Uğur Tunç,Diyarbakır,Erkek,2020-05-18 11:45:00,16,5900.70,Taksitli,Kapıda Ödeme,Ev&Yaşam
+100061,36,Vildan Öztürk,İstanbul,Kadın,2023-07-01 16:30:00,10,2650.90,Peşin,Kredi Kartı,Market
+100062,60,Yavuz Sağlam,Ankara,Erkek,2022-04-15 12:00:00,19,8800.30,Taksitli,Havale/EFT,Anne&Çocuk
+100063,34,Buket Çakır,İzmir,Kadın,2021-01-08 09:15:00,8,1950.55,Peşin,Kapıda Ödeme,Kadın
+100064,,Deniz Özer,Bursa,Erkek,2020-10-01 17:30:00,15,5500.80,Taksitli,Kredi Kartı,Erkek
+100065,69,Elif Korkut,Antalya,Kadın,2023-03-25 10:45:00,22,10500.10,Peşin,Havale/EFT,Giyim
+100066,28,Fatih Şahin,Adana,Erkek,2022-12-18 13:00:00,7,750.25,Taksitli,Kapıda Ödeme,Elektronik
+100067,43,Gizem Arıkan,Konya,Kadın,2021-09-12 15:15:00,12,3800.65,Peşin,Kredi Kartı,Kozmetik
+100068,65,Hakan Duran,Gaziantep,Erkek,2020-06-05 11:30:00,24,11500.45,Taksitli,Havale/EFT,Ev&Yaşam
+100069,31,İrem Yılmaz,Şanlıurfa,Kadın,2023-05-08 16:00:00,9,2300.85,Peşin,Kapıda Ödeme,Market
+100070,55,Kemal Kaya,Diyarbakır,Erkek,2022-02-01 12:15:00,17,6200.20,Taksitli,Kredi Kartı,Anne&Çocuk
+100071,37,Merve Demir,İstanbul,Kadın,2021-11-25 09:30:00,11,2800.75,Peşin,Havale/EFT,Kadın
+100072,61,Oğuz Çelik,Ankara,Erkek,2020-08-18 17:45:00,20,9500.95,Taksitli,Kapıda Ödeme,Erkek
+100073,35,Pelin Özdemir,İzmir,Kadın,2023-04-12 10:00:00,10,2100.35,Peşin,Kredi Kartı,Giyim
+100074,48,Rıza Aydın,Bursa,Erkek,2022-01-05 13:15:00,16,5800.55,Taksitli,Havale/EFT,Elektronik
+100075,70,Seda Arslan,Antalya,Kadın,2021-09-28 15:30:00,23,11000.15,Peşin,Kapıda Ödeme,Kozmetik
+100076,29,Tamer Güneş,Adana,Erkek,2020-06-22 11:45:00,8,800.65,Taksitli,Kredi Kartı,Ev&Yaşam
+100077,44,Umut Yıldız,Konya,Kadın,2023-03-22 16:30:00,13,3100.85,Peşin,Havale/EFT,Market
+100078,,Veli Korkmaz,Gaziantep,Erkek,2022-12-15 12:00:00,26,12000.20,Taksitli,Kapıda Ödeme,Anne&Çocuk
+100079,32,Yasemin Kurt,Şanlıurfa,Kadın,2021-10-08 09:15:00,9,2550.45,Peşin,Kredi Kartı,Kadın
+100080,56,Ziya Doğan,Diyarbakır,Erkek,2020-07-01 17:30:00,19,6500.70,Taksitli,Havale/EFT,Erkek
+100081,38,Ayten Şen,İstanbul,Kadın,2023-05-25 10:45:00,12,3000.90,Peşin,Kapıda Ödeme,Giyim
+100082,62,Bilal Koç,Ankara,Erkek,2022-04-18 13:00:00,21,9200.30,Taksitli,Kredi Kartı,Elektronik
+100083,36,Cemile Aksoy,İzmir,Kadın,2021-01-12 15:15:00,10,2200.55,Peşin,Havale/EFT,Kozmetik
+100084,49,Davut Kara,Bursa,Erkek,2020-10-05 11:30:00,17,6200.80,Taksitli,Kapıda Ödeme,Ev&Yaşam
+100085,71,Esma Özkan,Antalya,Kadın,2023-04-28 16:45:00,24,11500.10,Peşin,Kredi Kartı,Market
+100086,30,Furkan Çetin,Adana,Erkek,2022-03-22 12:00:00,8,850.25,Taksitli,Havale/EFT,Anne&Çocuk
+100087,45,Gülhan Yücel,Konya,Kadın,2021-12-18 09:30:00,13,3300.65,Peşin,Kapıda Ödeme,Kadın
+100088,67,Hidayet Erdem,Gaziantep,Erkek,2020-09-12 17:45:00,26,12500.45,Taksitli,Kredi Kartı,Erkek
+100089,,İlknur Yüksel,Şanlıurfa,Kadın,2023-06-10 10:00:00,11,2650.85,Peşin,Havale/EFT,Giyim
+100090,57,Kamil Acar,Diyarbakır,Erkek,2022-06-05 13:15:00,20,6800.20,Taksitli,Kapıda Ödeme,Elektronik
+100091,39,Lale Kılıç,İstanbul,Kadın,2021-02-01 15:30:00,14,3400.75,Peşin,Kredi Kartı,Kozmetik
+100092,63,Melih Tunç,Ankara,Erkek,2020-11-28 11:45:00,22,9800.95,Taksitli,Havale/EFT,Ev&Yaşam
+100093,37,Nalan Öztürk,İzmir,Kadın,2023-07-28 16:30:00,12,2800.35,Peşin,Kapıda Ödeme,Market
+100094,,Oktay Sağlam,Bursa,Erkek,2022-07-15 12:00:00,18,6500.55,Taksitli,Kredi Kartı,Anne&Çocuk
+100095,72,Özlem Çakır,Antalya,Kadın,2021-03-08 09:15:00,25,12000.15,Peşin,Havale/EFT,Kadın
+100096,34,Poyraz Özer,Adana,Erkek,2020-12-01 17:30:00,9,900.65,Taksitli,Kapıda Ödeme,Erkek
+100097,46,Reyhan Korkut,Konya,Kadın,2023-08-01 10:45:00,15,3600.85,Peşin,Kredi Kartı,Giyim
+100098,68,Süleyman Şahin,Gaziantep,Erkek,2022-08-25 13:00:00,27,13000.20,Taksitli,Havale/EFT,Elektronik
+100099,32,Şermin Arıkan,Şanlıurfa,Kadın,2021-04-18 15:15:00,10,2900.45,Peşin,Kapıda Ödeme,Kozmetik
+100100,58,Tuncay Duran,Diyarbakır,Erkek,2020-01-12 11:30:00,20,7200.70,Taksitli,Kredi Kartı,Ev&Yaşam
