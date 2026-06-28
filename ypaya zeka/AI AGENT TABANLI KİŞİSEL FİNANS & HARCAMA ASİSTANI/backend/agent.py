@@ -85,22 +85,22 @@ class FinanceAgent:
         # 2. Adım: Groq / Llama3 Fallback
         if self.groq_client and self.groq_key:
             try:
-                logger.info("Groq (llama3-8b-8192) modeline istek gönderiliyor...")
+                logger.info("Groq (llama-3.1-8b-instant) modeline istek gönderiliyor...")
                 chat_completion = self.groq_client.chat.completions.create(
                     messages=[
                         {"role": "system", "content": SYSTEM_PROMPT},
                         {"role": "user", "content": prompt}
                     ],
-                    model="llama3-8b-8192",
+                    model="llama-3.1-8b-instant",
                     temperature=0.2
                 )
                 response_text = chat_completion.choices[0].message.content
                 if response_text:
-                    logger.info("Groq (Llama 3) yanıtı başarıyla alındı.")
+                    logger.info("Groq (Llama 3.1) yanıtı başarıyla alındı.")
                     return response_text.strip()
             except Exception as e:
                 logger.error(f"Groq API çağrısı sırasında hata oluştu: {str(e)}")
-                raise Exception("Hem Gemini hem de Groq (Llama 3) servisleri yanıt vermedi. Lütfen API anahtarlarınızı ve internet bağlantınızı kontrol edin.")
+                raise Exception("Hem Gemini hem de Groq (Llama 3.1) servisleri yanıt vermedi. Lütfen API anahtarlarınızı ve internet bağlantınızı kontrol edin.")
         else:
             raise Exception("Gemini API çağrısı başarısız oldu ve Groq API yapılandırılmadığı için yedek sisteme geçilemedi.")
 
