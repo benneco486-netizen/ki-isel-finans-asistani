@@ -1,10 +1,10 @@
-fastapi==0.111.0 # FastAPI web framework for our backend REST API
-uvicorn[standard]==0.30.1 # ASGI server to run FastAPI
-streamlit==1.36.0 # Streamlit web application framework for dashboard UI
-google-generativeai==0.7.2 # Google Gemini Pro/Flash SDK
-groq==0.9.0 # Groq Llama 3 SDK (fallback option)
-python-dotenv==1.0.1 # Environment variable manager for API keys
-requests==2.32.3 # Synchronous HTTP requests for Streamlit calling FastAPI
-httpx==0.27.0 # Async HTTP client
-pydantic==2.7.4 # Data validation and settings using Python type hints
-plotly==5.22.0 # Interactive visual charts for finance dashboard
+fastapi
+uvicorn[standard]
+streamlit
+google-generativeai
+groq
+python-dotenv
+requests
+httpx
+pydantic
+plotly
